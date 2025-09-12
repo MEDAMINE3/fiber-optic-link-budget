@@ -19,3 +19,5 @@ Useful for telecom engineers and students working on **optical transmission syst
    git clone https://github.com/MEDAMINE3/fiber-optic-link-budget.git
    cd fiber-optic-link-budget# fiber-optic-link-budget
 Simple fiber optic link budget calculator
+
+👨‍💻 Author: Med Amine
