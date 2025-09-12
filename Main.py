@@ -21,7 +21,7 @@ def calculate_link_budget(length_km, fiber_loss_db_km, splice_loss_db, num_splic
     # Total link loss
     total_loss = fiber_loss + total_splice_loss + total_connector_loss
 
-    # Power margin
+    # Power margin. 
     received_power = transmitter_power_dbm - total_loss
     margin = received_power - receiver_sensitivity_dbm
 
