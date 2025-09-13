@@ -4,6 +4,10 @@ A simple Python tool to calculate fiber optic link loss, received power, and sys
 Useful for telecom engineers and students working on **optical transmission systems**.
 
 ---
+> 📝 Note: This project was completed locally around **October 2024**.  
+> Uploaded to GitHub in **2025** for visibility and collaboration.
+---
+
 
 ## 🚀 Features
 - Calculates total fiber loss (based on length & attenuation).
